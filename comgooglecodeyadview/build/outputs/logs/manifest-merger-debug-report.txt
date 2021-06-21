@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:20:1-30:12
+INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:20:1-30:12
+INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:20:1-30:12
+INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:20:1-30:12
+INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:20:1-30:12
+INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:20:1-30:12
+INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:20:1-30:12
+	package
+		ADDED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:21:5-38
+		INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:22:5-28
+		INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:25:5-47
+INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:25:5-47
+INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:25:5-47
+INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:25:5-47
+INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:25:5-47
+	android:targetSdkVersion
+		ADDED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:25:15-44
+		INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:25:5-47
+		INJECTED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:28:5-71
+	android:name
+		ADDED from /Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:28:22-69

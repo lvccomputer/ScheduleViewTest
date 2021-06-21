@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <color name="calendar_date_banner_text_color">#ff000000</color>
+    <color name="week_saturday">#ff2222cc</color>
+    <color name="week_sunday">#ffcc2222</color>
+    <string msgid="2131483437911536229" name="day_view_new_event_hint">"新しい予定を追加"</string>
+    <string msgid="6941040556709110617" name="event_create">"予定を作成"</string>
+    <string msgid="2386667193277770442" name="event_delete">"予定を削除"</string>
+    <string msgid="4006961928830064662" name="event_edit">"予定を編集"</string>
+    <string msgid="7621353079385122317" name="event_view">"予定を表示"</string>
+    <string msgid="6154657379574669371" name="new_event_dialog_option">"新しい予定"</string>
+    <string msgid="5782512782605466016" name="show_day_view">"日付を表示"</string>
+    <string msgid="4067877800670753110" name="template_announce_item_index">"<ns1:g id="ITEM_COUNT">%2$s</ns1:g>件中<ns1:g id="ITEM_INDEX">%1$s</ns1:g>件目の予定"</string>
+</resources>

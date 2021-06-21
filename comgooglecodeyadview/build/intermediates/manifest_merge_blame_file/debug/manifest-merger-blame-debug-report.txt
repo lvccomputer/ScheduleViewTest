@@ -1,0 +1,35 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3Copyright 2013 Chris Pope
+4
+5Copyright (C) 2007 The Android Open Source Project
+6
+7Licensed under the Apache License, Version 2.0 (the "License");
+8you may not use this file except in compliance with the License.
+9You may obtain a copy of the License at
+10
+11    http://www.apache.org/licenses/LICENSE-2.0
+12
+13Unless required by applicable law or agreed to in writing, software
+14distributed under the License is distributed on an "AS IS" BASIS,
+15WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+16See the License for the specific language governing permissions and
+17limitations under the License.
+18-->
+19<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+20    package="com.google.code.yadview"
+21    android:versionCode="1"
+22    android:versionName="0.1" >
+23
+24    <uses-sdk
+24-->/Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:25:5-47
+25        android:minSdkVersion="14"
+25-->/Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:25:5-47
+26        android:targetSdkVersion="17" />
+26-->/Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:25:15-44
+27
+28    <uses-permission android:name="android.permission.READ_CALENDAR" />
+28-->/Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:28:5-71
+28-->/Volumes/DATA/Works/TestRecycler/comgooglecodeyadview/src/main/AndroidManifest.xml:28:22-69
+29
+30</manifest>

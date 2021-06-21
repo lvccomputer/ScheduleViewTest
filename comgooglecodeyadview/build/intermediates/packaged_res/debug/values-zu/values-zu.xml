@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="month_more_events">
+    <item msgid="8971334808414201327" quantity="one">"+1"</item>
+    <item msgid="1997405398178470838" quantity="other">"+<ns1:g id="NUMBER">%d</ns1:g>"</item>
+  </plurals>
+    <string msgid="2131483437911536229" name="day_view_new_event_hint">"Isenzakalo esisha"</string>
+    <string msgid="6941040556709110617" name="event_create">"Isenzakalo esisha"</string>
+    <string msgid="2386667193277770442" name="event_delete">"Susa isenzakalo"</string>
+    <string msgid="4006961928830064662" name="event_edit">"Hlela isenzakalo"</string>
+    <string msgid="7621353079385122317" name="event_view">"Buka isenzakalo"</string>
+    <string msgid="6154657379574669371" name="new_event_dialog_option">"Isenzakalo esisha"</string>
+    <string msgid="5782512782605466016" name="show_day_view">"Bonisa usuku"</string>
+    <string msgid="4067877800670753110" name="template_announce_item_index">"Isenzakalo <ns1:g id="ITEM_INDEX">%1$s</ns1:g> se <ns1:g id="ITEM_COUNT">%2$s</ns1:g>."</string>
+</resources>
