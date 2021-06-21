@@ -1,3 +1,3 @@
 # ScheduleViewTest
 Schedule View Test
-![plot](test.png)
+![plot](.test.png)
