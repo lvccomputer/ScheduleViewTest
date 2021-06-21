@@ -1,3 +1,3 @@
 # ScheduleViewTest
 Schedule View Test
-![plot](.test.png)
+![alt text](https://github.com/lvccomputer/ScheduleViewTest/blob/master/test.png)
